@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OniNoLife
+- 👋 Moin Meister, I’m @OniNoLife
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Basic Game Making
+- 🌱 I’m currently learning Basic Coding
 
 <!---
 OniNoLife/OniNoLife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
